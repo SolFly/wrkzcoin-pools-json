@@ -34,6 +34,13 @@
             "api" : "https://pool-us.wrkz.work/wrkz-api/",
             "type" : "forknote",
             "miningAddress" : "mining-us.wrkz.work"
+        },
+        {
+            "name" : "FastPooL.XyZ",
+            "url" : "https://fastpool.xyz/wrkz/",
+            "api" : "https://fastpool.xyz/api-wrkz/",
+            "type" : "forknote",
+            "miningAddress" : "fastpool.xyz"
         }
     ]
 }
